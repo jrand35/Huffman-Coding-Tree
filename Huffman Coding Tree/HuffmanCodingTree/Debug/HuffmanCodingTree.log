@@ -1,0 +1,9 @@
+﻿  Test.cpp
+  HuffmanCodingTree.cpp
+k:\smu guildhall portfolio\huffman coding tree\huffmancodingtree\huffmancodingtree.cpp(27): warning C4018: '<': signed/unsigned mismatch
+k:\smu guildhall portfolio\huffman coding tree\huffmancodingtree\huffmancodingtree.cpp(115): warning C4018: '<': signed/unsigned mismatch
+k:\smu guildhall portfolio\huffman coding tree\huffmancodingtree\huffmancodingtree.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+k:\smu guildhall portfolio\huffman coding tree\huffmancodingtree\huffmancodingtree.cpp(263): warning C4715: 'HuffmanCodingTree::GetCharFromCode': not all control paths return a value
+  HuffmanCodingTree.vcxproj -> K:\SMU Guildhall Portfolio\Huffman Coding Tree\Debug\HuffmanCodingTree.exe
+  HuffmanCodingTree.vcxproj -> K:\SMU Guildhall Portfolio\Huffman Coding Tree\Debug\HuffmanCodingTree.pdb (Full PDB)
