@@ -3,8 +3,8 @@ Programming Portfolio
 
 - Huffman Coding Tree
 - C++ Console Application
-- Built in Microsoft Visual Studio 2015
-- Run the program by importing the project in Visual Studio 2015 and then building it
+- Built in Microsoft Visual Studio
+- Run the program by importing the project in Visual Studio and then building it
 - Detailed Report in Huffman Coding Tree folder
 - Data Structures II (CS218) Programming Assignment
 - Written on 3/3/2015 by Joshua Rand
