@@ -1,4 +1,4 @@
-# Huffman-Coding-Tree
+# Huffman Coding Tree
 Programming Portfolio
 
 - Huffman Coding Tree
