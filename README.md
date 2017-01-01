@@ -1,5 +1,5 @@
 # Huffman-Coding-Tree
-Programming Portfolio for Southern Methodist University - Guildhall
+Programming Portfolio
 
 - Huffman Coding Tree
 - C++ Console Application
